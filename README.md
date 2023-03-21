@@ -1,6 +1,4 @@
-# Appointment App
-
-![gif](./public/images/stylede%20comp%20.gif)
+![gif](./styled-example-inClass/public/images/stylede%20comp%20.gif)
 
 - HTML
 
